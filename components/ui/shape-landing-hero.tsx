@@ -74,7 +74,7 @@ function HeroGeometric({
     badge = "Data Science Enthusisast",
     title1 = "Turning Data into",
     title2 = "Actionable Insights",
-    description = "Hi, I'm Ayush Sharma — a beginner Data Science & Python developer exploring the power of analytics, visualization, and automation.",
+    description = "Hi, I&apos;m Ayush Sharma — a beginner Data Science & Python developer exploring the power of analytics, visualization, and automation.",
 }: {
     badge?: string;
     title1?: string;

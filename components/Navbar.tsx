@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Variants } from "framer-motion";
 import { Menu, X, Code2 } from "lucide-react";
-import { ToggleTheme } from "./ui/toggle-theme";
+//import { ToggleTheme } from "./ui/toggle-theme";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);

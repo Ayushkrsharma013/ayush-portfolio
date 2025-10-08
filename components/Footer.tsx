@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Heart } from "lucide-react";
+import { Heart } from "lucide-react";
 
 function MinimalFooterBar() {
   const currentYear = new Date().getFullYear();
