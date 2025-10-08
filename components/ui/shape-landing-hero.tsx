@@ -213,12 +213,12 @@ function HeroGeometric({
                         >
                             View Projects
                         </a>
-                        <a
-                            href="#contact"
-                            className="px-6 py-3 border border-white/20 rounded-lg font-semibold hover:bg-white/10 transition text-sm sm:text-base"
-                        >
-                            Let's Connect →
-                        </a>
+<a
+  href="#contact"
+  className="px-6 py-3 border border-white/20 rounded-lg font-semibold hover:bg-white/10 transition text-sm sm:text-base"
+>
+  Let&apos;s Connect →
+</a>
                     </motion.div>
                 </div>
             </div>

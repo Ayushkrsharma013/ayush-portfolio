@@ -27,24 +27,24 @@ export default function Contact() {
         transition={{ duration: 0.8 }}
         className="relative z-10"
       >
-        <motion.h2
-          initial={{ opacity: 0, scale: 0.8 }}
-          whileInView={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.6, delay: 0.2 }}
-          className="text-3xl sm:text-4xl font-bold mb-6"
-        >
-          Let's <span className="text-accent">Connect</span>
-        </motion.h2>
+<motion.h2
+  initial={{ opacity: 0, scale: 0.8 }}
+  whileInView={{ opacity: 1, scale: 1 }}
+  transition={{ duration: 0.6, delay: 0.2 }}
+  className="text-3xl sm:text-4xl font-bold mb-6"
+>
+  Let&apos;s <span className="text-accent">Connect</span>
+</motion.h2>
 
-        <motion.p
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          transition={{ delay: 0.4 }}
-          className="text-gray-300 mb-8 text-lg max-w-2xl mx-auto"
-        >
-          I'm open to internships, collaborations, or just discussing cool data projects. 
-          Let's turn ideas into <span className="text-accent">impactful solutions</span>.
-        </motion.p>
+<motion.p
+  initial={{ opacity: 0 }}
+  whileInView={{ opacity: 1 }}
+  transition={{ delay: 0.4 }}
+  className="text-gray-300 mb-8 text-lg max-w-2xl mx-auto"
+>
+  I&apos;m open to internships, collaborations, or just discussing cool data projects. 
+  Let&apos;s turn ideas into <span className="text-accent">impactful solutions</span>.
+</motion.p>
 
         <motion.div
           initial={{ opacity: 0, y: 20 }}

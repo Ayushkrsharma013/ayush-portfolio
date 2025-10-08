@@ -40,12 +40,12 @@ export default function About() {
           transition={{ delay: 0.4 }}
           className="glass rounded-2xl p-8 border-white/10 hover:border-white/20 transition-all duration-500 hover:scale-[1.02]"
         >
-          <p className="text-gray-300 leading-relaxed text-lg">
-            I'm a passionate learner diving deep into <span className="text-accent font-semibold">Python</span> and <span className="text-accent font-semibold">Data Science</span>.  
-            I love solving problems with clean code, clear logic, and creative visualizations.  
-            My goal is to turn raw data into <span className="text-accent font-semibold">actionable insights</span> using tools like
-            <span className="text-white font-medium"> Pandas, NumPy, and Scikit-learn</span>.
-          </p>
+<p className="text-gray-300 leading-relaxed text-lg">
+  I&apos;m a passionate learner diving deep into <span className="text-accent font-semibold">Python</span> and <span className="text-accent font-semibold">Data Science</span>.  
+  I love solving problems with clean code, clear logic, and creative visualizations.  
+  My goal is to turn raw data into <span className="text-accent font-semibold">actionable insights</span> using tools like
+  <span className="text-white font-medium"> Pandas, NumPy, and Scikit-learn</span>.
+</p>
         </motion.div>
       </motion.div>
     </section>
